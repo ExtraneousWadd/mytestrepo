@@ -9,7 +9,7 @@ public class Somethign {
         num++;
     }
 
-    public void theThinker(){
-        System.out.println("think?");
+    public void partner1(){
+        System.out.println("partner1");
     }
 }
