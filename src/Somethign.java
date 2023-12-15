@@ -8,4 +8,8 @@ public class Somethign {
     public void addOne(){
         num++;
     }
+
+    public void theThinker(){
+        System.out.println("think?");
+    }
 }
