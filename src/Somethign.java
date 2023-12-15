@@ -4,4 +4,8 @@ public class Somethign {
     public Somethign(int num){
         this.num = num;
     }
+
+    public void addOne(){
+        num++;
+    }
 }
