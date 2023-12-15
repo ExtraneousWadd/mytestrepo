@@ -8,4 +8,8 @@ public class Somethign {
     public void addOne(){
         num++;
     }
+
+    public void partner1(){
+        System.out.println("partner1");
+    }
 }
